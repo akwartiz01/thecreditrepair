@@ -1,0 +1,55 @@
+@media only screen and (min-width:300px) and (max-width:600px){
+.col-md-4.text-center {
+    margin-bottom: 10px;
+}
+i.fa.fa-paper-plane {
+    margin-left: -4px;
+}
+.dataTable-top {
+    padding: 10px 10px!important;
+}
+.dataTable-dropdown label select.dataTable-selector {
+    width: 60px;
+    margin-right: 10px;
+}
+.dataTable-selector{
+    padding: 7px 8px;
+}
+.dataTable-top {
+    display: flex;
+}
+.dataTable-search {
+    margin-left: 10px;
+}
+.form-control, .custom-select, .dataTable-selector, .dataTable-input {
+    display: block;
+    width: 100%;
+    padding: 8px 8px!important;
+}
+a.fc-daygrid-event.fc-daygrid-dot-event.fc-event.fc-event-resizable.fc-event-start.fc-event-end.fc-event-past.event-info {
+    padding: 0!important;
+}
+.fc-daygrid-event-dot {
+    margin: 0 1px!important;
+}
+}
+
+@media only screen and (min-width:1900px) and (max-width:1920px){
+    .mac {
+    height: 86.5vh!important;
+    margin-bottom: 0 !important;
+}
+.card-mac{
+    margin-bottom: 6px !important;
+}
+.mac-btn{
+    margin-left: 3px;
+}
+.mac-row{
+    height: 94vh!important;
+}
+}
+
+.simplebar-offset {
+    padding-bottom: 10px;
+}
